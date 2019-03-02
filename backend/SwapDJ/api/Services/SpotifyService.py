@@ -29,7 +29,7 @@ def ManualLogin():
     scope = ''
 
     response_type = 'code'
-    redirect_uri = 'http://localhost:8000'
+    redirect_uri = ''
     state = ''
     scope = 'playlist-read-private playlist-read-public playlist-modify-private playlist-modify-public'
     show_dialog = ''
